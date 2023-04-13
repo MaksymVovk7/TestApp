@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TestApp</string>
+    <string name="name">Maksym Vovk</string>
+    <string name="battery_level">100%</string>
+    <string name="permission_granted">"Read external storage permission granted"</string>
+    <string name="permission_denied">"Read external storage permission denied"</string>
 </resources>
